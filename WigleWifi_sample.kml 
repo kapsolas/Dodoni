@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name><![CDATA[HotZone Duo - 0]]></name>
+<description><![CDATA[BSSID: <b>00:19:5e:b4:f2:0c</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2452</b><br/>Timestamp: <b>1346421952904</b><br/>Date: <b>2012-08-31 09:05:52</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-87.62092155,41.87981031</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[EmmEyeVee]]></name>
+<description><![CDATA[BSSID: <b>00:0b:86:7e:72:21</b><br/>Capabilities: <b>[WPA2-EAP-CCMP][ESS]</b><br/>Frequency: <b>2462</b><br/>Timestamp: <b>1346421954904</b><br/>Date: <b>2012-08-31 09:05:54</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-87.6209231,41.87974368</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[attwifi]]></name>
+<description><![CDATA[BSSID: <b>00:0d:67:13:8e:a7</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2412</b><br/>Timestamp: <b>1346421956904</b><br/>Date: <b>2012-08-31 09:05:56</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-87.62091754,41.87971474</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[wireless.artic.edu]]></name>
+<description><![CDATA[BSSID: <b>00:19:a9:0d:f2:c0</b><br/>Capabilities: <b>[WPA2-EAP-CCMP][ESS]</b><br/>Frequency: <b>2442</b><br/>Timestamp: <b>1346421959904</b><br/>Date: <b>2012-08-31 09:05:59</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-87.62092027,41.87971267</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[wireless.artic.edu]]></name>
+<description><![CDATA[BSSID: <b>00:12:00:46:d9:70</b><br/>Capabilities: <b>[WPA2-EAP-CCMP][ESS]</b><br/>Frequency: <b>2442</b><br/>Timestamp: <b>1346421975904</b><br/>Date: <b>2012-08-31 09:06:15</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-87.620893,41.87970818</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Panasonic Display1]]></name>
+<description><![CDATA[BSSID: <b>1e:98:42:ab:cf:76</b><br/>Capabilities: <b>[IBSS]</b><br/>Frequency: <b>2462</b><br/>Timestamp: <b>1346422016904</b><br/>Date: <b>2012-08-31 09:06:56</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-87.62089271,41.87970513</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[SamsungTMobile24Seven5758]]></name>
+<description><![CDATA[BSSID: <b>9c:02:98:10:23:f2</b><br/>Capabilities: <b>[WPA2-PSK-CCMP][ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1346422044904</b><br/>Date: <b>2012-08-31 09:07:24</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-87.62089275,41.87970375</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[WIZ-GrantPark]]></name>
+<description><![CDATA[BSSID: <b>06:19:5e:b4:f2:0c</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2452</b><br/>Timestamp: <b>1346422118904</b><br/>Date: <b>2012-08-31 09:08:38</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-87.62089244,41.87970192</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[wireless.artic.edu]]></name>
+<description><![CDATA[BSSID: <b>0c:85:25:69:f8:40</b><br/>Capabilities: <b>[WPA2-EAP-CCMP][ESS]</b><br/>Frequency: <b>2447</b><br/>Timestamp: <b>1346422313861</b><br/>Date: <b>2012-08-31 09:11:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-87.62089503,41.87966684</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[CTR35-096]]></name>
+<description><![CDATA[BSSID: <b>00:30:44:0f:10:96</b><br/>Capabilities: <b>[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]</b><br/>Frequency: <b>2442</b><br/>Timestamp: <b>1346423360638</b><br/>Date: <b>2012-08-31 09:29:20</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-87.62092938,41.87962395</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[attwifi]]></name>
+<description><![CDATA[BSSID: <b>00:0d:67:13:5a:5d</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1346423417638</b><br/>Date: <b>2012-08-31 09:30:17</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-87.62092934,41.87962395</coordinates></Point>
+</Placemark>
+</Folder>
+</Document></kml>
